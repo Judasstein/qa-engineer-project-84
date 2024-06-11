@@ -21,6 +21,10 @@ test-cases:
    status: pass
 
  - summary: |
+     Проверка удаления товара из корзины
+   status: fail
+   
+ - summary: |
      Проверка ввода в поле "Цена" отрицательных значений
    stasus: fail
 
