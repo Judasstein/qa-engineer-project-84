@@ -34,10 +34,10 @@ test-cases:
 
 bugreports:
   - summary: |
-    Не работает поиск товара, если перейти на следующую страницу
+     Не работает поиск товара, если перейти на следующую страницу
   environment: |
-    Google Chrome Версия 125.0.6422.142 (Официальная сборка), (64 бит)
-    OC Windows 10 22H2
+     Google Chrome Версия 125.0.6422.142 (Официальная сборка), (64 бит)
+     OC Windows 10 22H2
   steps-to-reproduce: |
     1. Нажать на кнопку "Следующая страница"
     2. Ввести в поле "Поиск" товар с предыдущей страницы
@@ -46,9 +46,9 @@ bugreports:
   actual-result: |
     Выводится сообщение "Ничего не найдено!"
 
- - summary: |
+  - summary: |
     Некорректная работа кнопки "Следующая страница"
-  environment: |
+ environment: |
     Google Chrome Версия 125.0.6422.142 (Официальная сборка), (64 бит)
     OC Windows 10 22H2
   steps-to-reproduce: |
@@ -60,7 +60,7 @@ bugreports:
 
  - summary: |
     При многократном нажатии на кнопки "Следующая страница" и "Предыдущая страница" появляются другие товары
-  environment: |
+ environment: |
     Google Chrome Версия 125.0.6422.142 (Официальная сборка), (64 бит)
     OC Windows 10 22H2
   steps-to-reproduce: |
@@ -74,7 +74,7 @@ bugreports:
     
  - summary: |
      При перезагрузке страницы язык меняется на английский
-    environment: |
+environment: |
       Google Chrome Версия 125.0.6422.142 (Официальная сборка), (64 бит)
       OC Windows 10 22H2
     steps-to-reproduce: |
@@ -88,7 +88,7 @@ bugreports:
 
  - summary: |
      При нажатии на кнопку "Магазин" язык меняется на английский
-    environment: |
+ environment: |
       Google Chrome Версия 125.0.6422.142 (Официальная сборка), (64 бит)
       OC Windows 10 22H2
     steps-to-reproduce: |
