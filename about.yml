@@ -1,15 +1,15 @@
 ---
-name: Ilona Maskova 
+name: Anastasia Vasileva
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
+email: legnadevil@yandex.ru
 description: |
-  Этот текст — описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя.
+  Люблю смотреть аниме и детективные сериалы, игры в ранже MMORPG, MOBA, шутеры от третьего лица
 
   Текст можно написать в несколько абзацев
 skills: 
   - Функциональное тестирование
   - Написание багрепортов
-  - Linux
+  - Windows 
   - Слепая печать
-  - Английский язык C1
+  - Английский язык
