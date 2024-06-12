@@ -8,33 +8,5 @@
   status: pass
 
 - summary: |
-    Успешный поиск товара по категориям
-  status: pass
-
-- summary: |
-    Успешнаый поиск товара по фильтрам
-  status: pass
-
-- summary: |
-    Успешный просмотр товара 
-  status: pass
-
-- summary: |
-    Успешное добавление товара в корзину  
-  status: pass
-
-- summary: |
-    Успешное оформление заказа в корзине 
-  status: pass
-
-- summary: |
-    Успешное удаление товаров из корзины
-  status: fail
-  
-- summary: |
-    Неуспешный ввод в поле "Цена" буквенных значений
-  stasus: pass
-
-- summary: |
     Успешный ввод в поле "Цена" отрицательных значений 
   status: pass
