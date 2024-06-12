@@ -1,40 +1,40 @@
 ---
 - summary: |
     Успешный поиск товара по ключевому слову
-status: fail
+  status: fail
 
 - summary: |
     Неуспешный поиск товара по ключевому слову
-status: pass
+  status: pass
 
 - summary: |
     Успешный поиск товара по категориям
-status: pass
+  status: pass
 
 - summary: |
     Успешнаый поиск товара по фильтрам
-status: pass
+  status: pass
 
 - summary: |
     Успешный просмотр товара 
-status: pass
+  status: pass
 
 - summary: |
     Успешное добавление товара в корзину  
-status: pass
+  status: pass
 
 - summary: |
     Успешное оформление заказа в корзине 
-status: pass
+  status: pass
 
 - summary: |
     Успешное удаление товаров из корзины
-status: fail
+  status: fail
   
 - summary: |
     Неуспешный ввод в поле "Цена" буквенных значений
-stasus: pass
+  stasus: pass
 
 - summary: |
     Успешный ввод в поле "Цена" отрицательных значений 
-status: pass
+  status: pass
